@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-    Todo App
+    Todo Application
     </>
   )
 }
